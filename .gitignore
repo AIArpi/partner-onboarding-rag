@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# App artifacts
+.env
+out/
+.streamlit/
+
+# Vector DB (ignore all, keep placeholder)
+data/db/*
+!data/db/.gitkeep
+
+# Local docs (ignore all, keep placeholder)
+data/docs/*
+!data/docs/.gitkeep
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
