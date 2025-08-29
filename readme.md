@@ -18,7 +18,7 @@
 
 ## Demo assets
 
-- 📄 **Test run (PDF):** samples/Partner Onboarding RAG Test Q&A.pdf — a captured Q&A session for quick review.
+- 📄 **Test run (PDF):** [Partner Onboarding RAG Test Q&A.pdf](https://github.com/AIArpi/partner-onboarding-rag/blob/main/samples/Partner%20Onboarding%20RAG%20Test%20Q%26A.pdf) — a captured Q&A session for quick review.
 
 
 
